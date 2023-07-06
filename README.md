@@ -16,7 +16,7 @@ SFML library.
 
 ## Controls
 + For player 1: Use the arrow keys to move your character up, down, left, or right on the game board.
-+ For player 2: Use Use the W, S, A, and D keys to move your character up, down, left, or right respectivley, on the game board.
++ For player 2: Use Use the W, S, A, and D keys to move your character up, down, left, or right, respectively, on the game board.
 
 ## Gameplay
 + The game starts with multiple players placed randomly on the game board.
@@ -24,6 +24,10 @@ SFML library.
 + Each item collected adds points to the player's score.
 + The game ends after a specific time duration or when all the items have been collected.
 + At the end of the game, the players' scores are displayed, and the player with the highest score wins.
+
+## Remember
++ Do not forget to give the relevant link to the sprites (images where you downloaded them) in the code file.
++ You can change the file name of *.cpp* as you like.  
 
 <br> <br>
 
